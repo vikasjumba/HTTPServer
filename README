@@ -1,0 +1,3 @@
+This project offeres an object oriented client server based on HTTP protocol via socket connection in c++11.
+
+The sample code to use HTTP server and client is defined in main class.
